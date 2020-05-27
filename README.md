@@ -5,7 +5,7 @@ My personal project using flutter
 Screenshot
 
 
-<img src="screenshot/1.png">
+<img width="50" src="screenshot/1.png">
 
 Features:
 * Online and Offline
